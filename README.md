@@ -1,7 +1,9 @@
 # kiara_notebooks
 Jupyter Notebooks for kiara
 
-This repository contains Jupyter Notebooks using <i>kiara</i> that can be used as an introductory guide to <i>kiara</i> and it's language in Jupyter. Before using any notebooks, <i>kiara</i> needs to be installed via the CLI as follows.
+This repository contains Jupyter Notebooks using <i>kiara</i> that can be used as an introductory guide to <i>kiara</i> and it's language in Jupyter. You can either clone this repository, or download the notebooks individually - just make sure to also download the relevant data for each notebook as well!
+
+Before using any notebooks, <i>kiara</i> needs to be installed via the CLI as follows.
 
 First install conda and / or miniconda. Installation instructions for miniconda can be found [here](https://docs.anaconda.com/miniconda/). Make sure to double check that you are installing the right version for your device, including which system your device is currently running on. 
 
