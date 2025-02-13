@@ -12,7 +12,7 @@ Launch your CLI shell.
 Create an environment to install <i>kiara</i> into. Future documentation may want to include or point to more information on the role of environments in coding (I think this would be useful for novice coders or other users unfamiliar with managing and testing code), e.g. https://docs.anaconda.com/working-with-conda/environments/
 
 ```
-conda create -n kiara_testing
+conda create -n kiara_testing python jupyter
 ```
 
 Feel free to replace `kiara_testing` with any chosen environment name. At this stage, I'm successfully running <i>kiara</i> on Python 3.13.0.
